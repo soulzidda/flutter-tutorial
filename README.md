@@ -1,6 +1,6 @@
 # test_app
 
-A new Flutter project.
+A first time flutter project, for a work presentation. The aim was to get used to and present Flutter to my collegues.
 
 ## Getting Started
 
